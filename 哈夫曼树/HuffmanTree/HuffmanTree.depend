@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1483012399 source:c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验3\huffmantree\huffmantree.cpp
+	<iostream>
+	<fstream>
+	<stack>
+	<stdlib.h>
+	<string.h>
+	"MinHeap.h"
+	"HuffmanTree.h"
+	"HuffmanNode.h"
+	"MinHeap.cpp"
+
+1482484085 c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验3\huffmantree\huffmantree.h
+	"HuffmanNode.h"
+
+1483012162 source:c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验3\huffmantree\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	"HuffmanNode.h"
+	"MinHeap.h"
+	"HuffmanTree.h"
+	"HuffmanTree.cpp"
+	"HuffmanNode.cpp"
+
+1482491962 source:c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验3\huffmantree\minheap.cpp
+	<iostream>
+	<stdlib.h>
+	"MinHeap.h"
+	"HuffmanNode.h"
+	"HuffmanTree.h"
+
+1481786516 c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验3\huffmantree\minheap.h
+	"HuffmanNode.h"
+
+1482485210 c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验3\huffmantree\huffmannode.h
+	<iostream>
+	<string.h>
+
+1482485210 source:c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验3\huffmantree\huffmannode.cpp
+	<iostream>
+	"HuffmanNode.h"
+
+1482491962 c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验3\huffmantree\minheap.cpp
+	<iostream>
+	<stdlib.h>
+	"MinHeap.h"
+	"HuffmanNode.h"
+	"HuffmanTree.h"
+
+1483012399 c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验3\huffmantree\huffmantree.cpp
+	<iostream>
+	<fstream>
+	<stack>
+	<stdlib.h>
+	<string.h>
+	"MinHeap.h"
+	"HuffmanTree.h"
+	"HuffmanNode.h"
+	"MinHeap.cpp"
+
+1481789056 source:c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验3\huffmantree\characternode.cpp
+	<iostream>
+	"CharacterNode.h"
+
+1481987113 c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验3\huffmantree\characternode.h
+	<iostream>
+
+1482485210 c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验3\huffmantree\huffmannode.cpp
+	<iostream>
+	"HuffmanNode.h"
+
+1482485210 source:c:\users\lenovo\desktop\计机\大二\大二第一学期\数据结构\实验课作业\我做的作业\实验3\huffmantree\huffmannode.cpp
+	<iostream>
+	"HuffmanNode.h"
+
+1482485210 c:\users\lenovo\desktop\计机\大二\大二第一学期\数据结构\实验课作业\我做的作业\实验3\huffmantree\huffmannode.h
+	<iostream>
+	<string.h>
+
+1483012399 source:c:\users\lenovo\desktop\计机\大二\大二第一学期\数据结构\实验课作业\我做的作业\实验3\huffmantree\huffmantree.cpp
+	<iostream>
+	<fstream>
+	<stack>
+	<stdlib.h>
+	<string.h>
+	"MinHeap.h"
+	"HuffmanTree.h"
+	"HuffmanNode.h"
+	"MinHeap.cpp"
+
+1481786516 c:\users\lenovo\desktop\计机\大二\大二第一学期\数据结构\实验课作业\我做的作业\实验3\huffmantree\minheap.h
+	"HuffmanNode.h"
+
+1496839444 c:\users\lenovo\desktop\计机\大二\大二第一学期\数据结构\实验课作业\我做的作业\实验3\huffmantree\huffmantree.h
+	"HuffmanNode.h"
+
+1482491962 c:\users\lenovo\desktop\计机\大二\大二第一学期\数据结构\实验课作业\我做的作业\实验3\huffmantree\minheap.cpp
+	<iostream>
+	<stdlib.h>
+	"MinHeap.h"
+	"HuffmanNode.h"
+	"HuffmanTree.h"
+
+1483012162 source:c:\users\lenovo\desktop\计机\大二\大二第一学期\数据结构\实验课作业\我做的作业\实验3\huffmantree\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	"HuffmanNode.h"
+	"MinHeap.h"
+	"HuffmanTree.h"
+	"HuffmanTree.cpp"
+	"HuffmanNode.cpp"
+
+1483012399 c:\users\lenovo\desktop\计机\大二\大二第一学期\数据结构\实验课作业\我做的作业\实验3\huffmantree\huffmantree.cpp
+	<iostream>
+	<fstream>
+	<stack>
+	<stdlib.h>
+	<string.h>
+	"MinHeap.h"
+	"HuffmanTree.h"
+	"HuffmanNode.h"
+	"MinHeap.cpp"
+
+1482485210 c:\users\lenovo\desktop\计机\大二\大二第一学期\数据结构\实验课作业\我做的作业\实验3\huffmantree\huffmannode.cpp
+	<iostream>
+	"HuffmanNode.h"
+
+1482491962 source:c:\users\lenovo\desktop\计机\大二\大二第一学期\数据结构\实验课作业\我做的作业\实验3\huffmantree\minheap.cpp
+	<iostream>
+	<stdlib.h>
+	"MinHeap.h"
+	"HuffmanNode.h"
+	"HuffmanTree.h"
+
