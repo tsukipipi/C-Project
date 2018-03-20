@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="高校宿舍管理系统" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/高校宿舍管理系统" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/高校宿舍管理系统" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="adjust_dormitory.cpp" />
+		<Unit filename="administrator.cpp" />
+		<Unit filename="administrator.h" />
+		<Unit filename="allot_dormitory.cpp" />
+		<Unit filename="constructor.cpp" />
+		<Unit filename="destructor.cpp" />
+		<Unit filename="dormitory.cpp" />
+		<Unit filename="dormitory.h" />
+		<Unit filename="dormitory_IM.cpp" />
+		<Unit filename="dormitory_IM_function.cpp" />
+		<Unit filename="dormitory_manage.cpp" />
+		<Unit filename="function.h" />
+		<Unit filename="get_in_out_manage.cpp" />
+		<Unit filename="leave_dormitory.cpp" />
+		<Unit filename="live_in_dormitory.cpp" />
+		<Unit filename="login.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="query_information.cpp" />
+		<Unit filename="record.cpp" />
+		<Unit filename="record.h" />
+		<Unit filename="student.cpp" />
+		<Unit filename="student.h" />
+		<Unit filename="student_IM.cpp" />
+		<Unit filename="student_IM_function.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

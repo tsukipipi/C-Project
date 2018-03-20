@@ -1,0 +1,243 @@
+# depslib dependency file v1.0
+1477575382 source:c:\users\lenovo\desktop\高校宿舍管理系统\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"administrator.h"
+	"student.h"
+	"dormitory.h"
+	"function.h"
+
+1476529577 source:c:\users\lenovo\desktop\高校宿舍管理系统\student.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	"student.h"
+
+1476976515 c:\users\lenovo\desktop\高校宿舍管理系统\student.h
+
+1476521865 source:c:\users\lenovo\desktop\高校宿舍管理系统\dormitory.cpp
+	<iostream>
+	"dormitory.h"
+
+1476976356 c:\users\lenovo\desktop\高校宿舍管理系统\dormitory.h
+
+1472121527 source:c:\users\lenovo\desktop\高校宿舍管理系统\studentdatabase.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"studentdatabase.h"
+
+1472121890 c:\users\lenovo\desktop\高校宿舍管理系统\studentdatabase.h
+	<iostream>
+	"student.h"
+
+1476976919 source:c:\users\lenovo\desktop\高校宿舍管理系统\login.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"administrator.h"
+	"function.h"
+
+1472007191 c:\users\lenovo\desktop\高校宿舍管理系统\login.h
+
+1472121494 source:c:\users\lenovo\desktop\高校宿舍管理系统\dormitorydatabase.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"studentdatabase.h"
+	"dormitory.h"
+	"dormitorydatabase.h"
+
+1472114404 c:\users\lenovo\desktop\高校宿舍管理系统\dormitorydatabase.h
+	<iostream>
+	"student.h"
+	"dormitory.h"
+
+1472386601 source:c:\users\lenovo\desktop\高校宿舍管理系统\function.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+	"record.h"
+
+1476977900 c:\users\lenovo\desktop\高校宿舍管理系统\function.h
+	"administrator.h"
+	"student.h"
+	"dormitory.h"
+	"record.h"
+
+1476976977 source:c:\users\lenovo\desktop\高校宿舍管理系统\student_im.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string.h>
+	<algorithm>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+
+1476521731 source:c:\users\lenovo\desktop\高校宿舍管理系统\dormitory_im.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+
+1476522722 source:c:\users\lenovo\desktop\高校宿舍管理系统\dormitory_manage.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+
+1476499595 source:c:\users\lenovo\desktop\高校宿舍管理系统\live&leave&adjust_dormitory.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+
+1476976830 source:c:\users\lenovo\desktop\高校宿舍管理系统\allot_dormitory.cpp
+	<iostream>
+	<algorithm>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+
+1476976515 c:\users\lenovo\desktop\高校宿舍管理系统\record.h
+
+1476530033 source:c:\users\lenovo\desktop\高校宿舍管理系统\record.cpp
+	<iostream>
+	<string.h>
+	"record.h"
+
+1476520489 source:c:\users\lenovo\desktop\高校宿舍管理系统\constructor.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+	"record.h"
+
+1476520489 source:c:\users\lenovo\desktop\高校宿舍管理系统\destructor.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+	"record.h"
+
+1476523005 source:c:\users\lenovo\desktop\高校宿舍管理系统\get_in_out_manage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+	"record.h"
+
+1477842676 source:c:\users\lenovo\desktop\高校宿舍管理系统\query_information.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+	"record.h"
+
+1476976977 source:c:\users\lenovo\desktop\高校宿舍管理系统\student_im_function.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+	"record.h"
+
+1476522522 source:c:\users\lenovo\desktop\高校宿舍管理系统\dormitory_im_function.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+	"record.h"
+
+1476519984 source:c:\users\lenovo\desktop\高校宿舍管理系统\administrator.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"administrator.h"
+
+1476976334 c:\users\lenovo\desktop\高校宿舍管理系统\administrator.h
+
+1476976830 source:c:\users\lenovo\desktop\高校宿舍管理系统\adjust_dormitory.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+
+1476976919 source:c:\users\lenovo\desktop\高校宿舍管理系统\live_in_dormitory.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+
+1476976795 source:c:\users\lenovo\desktop\高校宿舍管理系统\leave_dormitory.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	"student.h"
+	"dormitory.h"
+	"function.h"
+
