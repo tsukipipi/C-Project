@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1471744908 source:c:\users\lenovo\desktop\小小图书馆\bdatabase.cpp
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"bdatabase.h"
+
+1471745218 c:\users\lenovo\desktop\小小图书馆\bdatabase.h
+	<iostream>
+	"book.h"
+
+1471509929 c:\users\lenovo\desktop\小小图书馆\book.h
+	<iostream>
+
+1471510429 source:c:\users\lenovo\desktop\小小图书馆\book.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	"book.h"
+
+1471745650 source:c:\users\lenovo\desktop\小小图书馆\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	"reader.h"
+	"rdatabase.h"
+	"book.h"
+	"bdatabase.h"
+
+1471745925 c:\users\lenovo\desktop\小小图书馆\reader.h
+
+1471745641 c:\users\lenovo\desktop\小小图书馆\rdatabase.h
+	<iostream>
+	"reader.h"
+
+1471745971 source:c:\users\lenovo\desktop\小小图书馆\rdatabase.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	"rdatabase.h"
+
+1471745925 source:c:\users\lenovo\desktop\小小图书馆\reader.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	"reader.h"
+
