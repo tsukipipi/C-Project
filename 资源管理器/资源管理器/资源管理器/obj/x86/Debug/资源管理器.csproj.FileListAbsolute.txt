@@ -1,0 +1,14 @@
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\bin\Debug\资源管理器.exe.manifest
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\bin\Debug\资源管理器.application
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\bin\Debug\资源管理器.exe
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\bin\Debug\资源管理器.pdb
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csproj.ResolveComReference.cache
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Form1.resources
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Properties.Resources.resources
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csproj.GenerateResource.Cache
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\obj\x86\Debug\资源管理器.exe.manifest
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\obj\x86\Debug\资源管理器.application
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\obj\x86\Debug\资源管理器.exe
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\obj\x86\Debug\资源管理器.pdb
+C:\Users\pangqianqian\Desktop\操作系统作业\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csprojResolveAssemblyReference.cache
