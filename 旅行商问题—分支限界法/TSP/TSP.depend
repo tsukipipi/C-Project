@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1496976663 source:c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\实验三\tsp\main.cpp
+	<iostream>
+	<string.h>
+	<queue>
+	"BranchAndBound.h"
+
+1496976492 source:c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\实验三\tsp\branchandbound.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<stdlib.h>
+
+1497071470 c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\实验三\tsp\branchandbound.h
+	<iostream>
+	<fstream>
+	<queue>
+	<stdlib.h>
+
+1496917546 c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\实验三\tsp\node.h
+	<iostream>
+	<string.h>
+	<queue>
+
+1496917608 c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\实验三\tsp\main.cpp
+	<iostream>
+	<string.h>
+	<queue>
+	"BranchAndBound.h"
+	"Node.h"
+
+1496970778 c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\实验三\tsp\branchandbound.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<stdlib.h>
+	"BranchAndBound.h"
+
+1496976663 source:c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\实验三\分支限界\tsp\main.cpp
+	<iostream>
+	<string.h>
+	<queue>
+	"BranchAndBound.h"
+
+1497071470 c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\实验三\分支限界\tsp\branchandbound.h
+	<iostream>
+	<fstream>
+	<queue>
+	<stdlib.h>
+
