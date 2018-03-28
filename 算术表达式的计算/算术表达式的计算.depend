@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1479043494 source:c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验1\算术表达式的计算\calculator.cpp
+	<iostream>
+	<stdlib.h>
+	<stack>
+	"calculator.h"
+
+1479043267 c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验1\算术表达式的计算\calculator.h
+	<stack>
+
+1479031364 source:c:\users\lenovo\desktop\计机\大二\数据结构\实验课作业\实验1\算术表达式的计算\main.cpp
+	<iostream>
+	<stack>
+	"calculator.h"
+
