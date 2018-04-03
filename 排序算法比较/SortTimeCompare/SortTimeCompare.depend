@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1494429277 source:c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\sorttimecompare\main.cpp
+	<iostream>
+	"SortClass.h"
+
+1494862391 c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\sorttimecompare\sortclass.h
+
+1494864126 source:c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\sorttimecompare\sortclass.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"SortClass.h"
+
+1497875942 source:c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\实验一\sorttimecompare\main.cpp
+	<iostream>
+	<stdlib.h>
+	"SortClass.h"
+
+1497875244 c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\实验一\sorttimecompare\sortclass.h
+
+1497876071 source:c:\users\lenovo\desktop\计机\大二\大二第二学期\算法设计\实验\实验作业\实验一\sorttimecompare\sortclass.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"SortClass.h"
+
